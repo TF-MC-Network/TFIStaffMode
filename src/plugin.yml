@@ -1,8 +1,8 @@
 main: net.teamfekker.tfstaffmode.Main
-name: TFStaffMode
-version: 0.1.0
+name: TFIStaffMode
+version: 1.0
 api-version: 1.16
 depend: [GroupManager]
-description: Enables TeamFekker StaffMode!
-author: _MrUniverse
+description: Enables TFI StaffMode!
+authors: [BearTrafalgar, GabeTrafalgar]
 website: www.teamfekker.net
